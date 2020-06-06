@@ -1,4 +1,4 @@
-Instructions for deployng this site
------------------------------------
+Instructions for deployng this site to the server
+-------------------------------------------------
 
 Some instructions!
