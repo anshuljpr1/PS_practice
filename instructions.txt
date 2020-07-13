@@ -2,3 +2,6 @@ Instructions for deployng this site to the server
 -------------------------------------------------
 
 Some instructions!
+
+-------------------------------------------------
+Changes made in the 'sample-branch'
