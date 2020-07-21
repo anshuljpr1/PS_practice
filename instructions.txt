@@ -5,3 +5,7 @@ Some instructions!
 
 ------------------------------------------------
 Comments added on the branch "add-more-instructions"
+
+------------------------------------------------
+Comments added to the branch 'installation-file-added'
+
