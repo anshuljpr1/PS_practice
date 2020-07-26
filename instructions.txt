@@ -5,3 +5,9 @@ Some instructions!
 
 -------------------------------------------------
 Changes made in the 'sample-branch'
+------------------------------------------------
+Comments added on the branch "add-more-instructions"
+
+------------------------------------------------
+Comments added to the branch 'installation-file-added'
+
